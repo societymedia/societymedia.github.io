@@ -224,7 +224,7 @@ Lets put or Microsoft Developer hats on start dragging!
 
 Using the Object library, which is at the bottom of the utilities pane on the right hand side of the screen lets find controls, using the search field, and drag them on our scene.
 
-####Configure a UI Control.
+#### Configure a UI Control.
 
 Every control that you add to the storyboard can be configured using the Utilities area, remembering the Utilities area is contextual 
 
