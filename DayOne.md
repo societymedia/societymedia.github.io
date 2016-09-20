@@ -56,16 +56,21 @@ Lets first use XCode and create our Weather Application.
 - Include UI Tests: leave this Unselected.
 
 ####Now we have our Weather Application.
+###Workspace Window
 
-### Workspace Window
-----
+---
+
+
+
 In the workspace window, you may or may not see a warning triangle with a message that says “No code signing identities found.” 
 Click the fix it and select the account you used earlier. 
 
 Lets take a few minutes to help familiarize yourself with some of the main Areas of XCode
 
 ###Toolbar
+
 ----
+
 ####Run button - Clicking this button instructs Xcode to compile and run our application in either the iOS simulator or on a connected iPhone.
 Additionally, if you click and hold this button, you can change it from Run to another action, such as Test, Profile, or Analyze. 
 
@@ -87,8 +92,11 @@ The editor selector determines how the editor is laid out. You can choose to dis
 
 ####View selector
 The view selector controls whether the navigator, debug, and utility panes appear on screen. If you’re pressed for screen space or simply want less clutter, you can quickly summon and dismiss these parts of the screen by clicking each of the elements.
+
 ###Navigator Area
----
+
+----
+
 The navigator Area is separated by the icons on the top.
 ####Project navigator
 Lists all the files that make up your project. This is the most commonly used navigator, as it determines what is shown in the editor. Whatever is selected in the project navigator is opened in the editor.
@@ -115,7 +123,9 @@ Lists all of the breakpoints that you’ve set for use while debugging.
 Lists all the activity that Xcode has done with your project (such as building, debugging, and analyzing). You can go back and view previous build reports from earlier in your Xcode session, too.
 
 ###Editor Area
+
 ----
+
 The XCode editor is where you’ll be spending most of your time. This is where you be doing things like
 
 - Source code editing
@@ -126,17 +136,22 @@ If you’re editing source code, the editor is a text editor, with code completi
 
 At the top of the editor, you’ll find the jump bar. The jump bar lets you quickly jump from the content that you’re editing to another piece of related content, such as a file in the same folder. The jump bar is a fast way to navigate your project.
 
-###Utility Area
------
+### Utility Area ###
+
+----
+
 The utilities pane shows additional information related to what you’re doing in the editor. Its contextual so if you’re editing a Swift source file, for example, the utilities pane allows you to view and modify settings for that file.
 
 ###Debug Area
+
 ----
+
 The debug area shows information reported by the debugger when the program is running. Whenever you want to see what the application is reporting while running, you can view it in the debug area. By default the debug area is not shown unless there is a program running. You can bring up the debug area by using the Xcode Toolbar View selector middle button.
 
 The area is split into two sections: the left hand side shows the values of local variables when the application is paused; the right hand side shows the ongoing log from the debugger, which includes any logging that comes from the debugged application.
 
-####Interface Builder
+###Interface Builder
+
 ----
 
 ###Designing the Interface
