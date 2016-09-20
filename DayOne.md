@@ -252,21 +252,5 @@ There are three kinds of connections that you can make. We will only talk about 
 Outlines are variables that refer to objects in the interface. Using outlets, you can instruct a button to change color or size, or to hide itself.
 Actions are methods in your code that are run in response to the user interacting with an object. These interactions include the user touching a finger to an object, dragging a finger, and so on.
 
-To make the application behave as we’ve just described—tapping the button displays a label and changes the button’s text—we’ll need to use both an outlet and an action. The action will run when the button is tapped, and will use the outlet connection to the button to modify its label.
-
-To create actions and outlets, you need to have both the interface builder and its corresponding code open. Then hold down the Control key and drag from an object in the interface builder to your code (or to another object in the interface builder, if you want to make a connection between two objects in your interface).
-
-We’ll now create the necessary connections:
-
-First, open the assistant by selecting the second button in the editor selector in the toolbar. The symbol is two interlocking circles.
-
-The assistant should open and show the corresponding code for the interface ViewController.swift. If it doesn’t, click the intertwining circles icon (which represents the assistant) inside the jump bar and navigate to Automatic→ViewController.swift. Make sure you don’t select the assistant symbol in the toolbar, as that will close the assistant editor.
-
-Create the button’s outlet. Hold down the Control key and drag from the button into the space below the first { in the code.
-
-A pop-up window will appear. Leave everything as the default, but change the Name to helloButton. Click Connect.
-
-A new line of code will appear: Xcode has created the connection for you, which appears in your code as a property in your class:
-
 
 
