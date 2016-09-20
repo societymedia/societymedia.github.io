@@ -12,7 +12,7 @@ Today we'll look at Xcode's development environment. We need to __understand__ i
 
 What we are going to do is make sure we get the Prerequisites downloaded or created and then we are going to just touch a few of the areas or panels in XCode.  We will then look at Interface Builder and its different Areas and we'll end the class by using what we learned to start building the UI of our Weather Application by dragging out UI controls onto a Storyboard. So lets get those pesky prerequists out of the way!
 
-###Prerequisites
+### Prerequisites
 
 - XCode 8.0
 - An Apple ID
@@ -133,7 +133,7 @@ Lists all the problems that Xcode has noticed in your code. This includes warnin
 
 Shows all the unit tests associated with your project. Unit tests used to be an optional component of Xcode but are now built into Xcode directly.
 
-####Debug navigator
+#### Debug navigator
 
 Activated when you’re debugging a program, and it allows you to examine the state of the various threads that make up your program.
 
@@ -141,7 +141,7 @@ Activated when you’re debugging a program, and it allows you to examine the st
 
 Lists all of the breakpoints that you’ve set for use while debugging.
 
-####Report navigator
+#### Report navigator
 
 Lists all the activity that Xcode has done with your project (such as building, debugging, and analyzing). You can go back and view previous build reports from earlier in your Xcode session, too.
 
