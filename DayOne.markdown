@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: content
 title: Beginning iOS Development using Swift - Day 1
 date: 9/20/16
 categories: iOS Swift
