@@ -4,12 +4,14 @@ title: The Eternal Lorem Ipsum Placeholder Text Here
 author: Author Name
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam imperdiet urna eu dolor placerat varius. Vivamus eros augue, consequat id scelerisque nec, fringilla in est. Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac.
+###XCode ProTips
+----
+####Project Target
+As of not targetting iOS 8.4 will cover about 95% of iOS devices in the world. A general rule is that you should target 
 
-## The Eternal Lorem Ipsum? 
------
+####Treat Warnings as errors -- MUST DO
+Its far too easy for you to pretend that you'll go back later and fix those little yellow warnings. You wont. So turn this on!
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam imperdiet urna eu dolor placerat varius. Vivamus eros augue, consequat id scelerisque nec, fringilla in est. Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula. 
+####Assessiblity -- Go further and add assessiblity for those users who need it. Its part of XCode so USE IT!
 
-Nam maximus tempor feugiat. Mauris tristique imperdiet nulla id egestas. Proin eget lobortis magna. Duis consectetur nibh at elit viverra congue. Ut eu turpis enim. Suspendisse laoreet, diam sed consequat sodales, felis dolor accumsan justo, nec scelerisque mi sem quis dolor. Etiam ornare venenatis massa, a suscipit ex. Ut quis lectus id nibh mattis rutrum. Nunc vel cursus eros, at blandit mi. Vivamus ac posuere libero.
-
+Use Stackviews until you cannot

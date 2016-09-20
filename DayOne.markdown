@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Improving U - Day One - XCode IDE
-author: Tony Merante
+title: Beginning iOS Development using Swift - Day 1
+date: 9/20/16
+categories: iOS Swift
 ---
 
 # Welcome to Day One of Improving U - Beginning Xcode with Swift
