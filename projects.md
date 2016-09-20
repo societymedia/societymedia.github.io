@@ -33,7 +33,7 @@ We will dive into Xcode's development environment. We'll look at the different A
 we'll end the class by using what we learned to start building the UI of our Weather Application, using UINavigationControllers, UIViewControllers, UITableViews and Segues.
 
 ### Day Two
-We'll pickup where we left off on Day One by gettings an understanding of the new way to make our weather application adapt to an iPhone in landscape and portrait.
+We'll pickup where we left off on Day One by connecting our Controls to our ViewControllers and getting an understanding of the new way to make our weather application adapt to an iPhone in landscape and portrait.
 
 
 ### Day Three
@@ -41,5 +41,5 @@ We'll start with understanding some of Apples common Design Patterns and we'll s
 With our understanding of Swift and some Design Patterns under our belt, we'll start coding our application in Swift. We'll call out to a weather API to fetch data and display it on our View.
 
 ### Day Four
-We'll use what we've learned thoughtout the course and finish up our weather application
+We'll use what we've learned throughout the course and finish up our weather application
 
