@@ -191,11 +191,13 @@ Lets spend the rest of the class designing our UI together. Rather than me decid
 - MKMapView
 
 Lets put or Microsoft Developer hats on start dragging!             
+
 #### Object Library
 Using the Object library, which is at the bottom of the utilities pane on the right hand side of the screen lets find controls, using the search field, and drag them on our scene.
 
 ####Configure a UI Control.
 Every control that you add to the storyboard can be configured using the Utilities area, remembering the Utilities area is contextual 
+
 #### Attributes Inspector
 Select the control by either clicking it on the storyboard or clicking on it in the document outline, then and select the Attributes Inspector, which is the third tab from the right at the top of the utilities pane. You can also reach it by pressing ⌘-Option-4.
 
@@ -203,8 +205,6 @@ There are many attributes on control;
 
 ####Segues
 Segues allow us to define the flow of our application. It defines a relationship between two controllers in the storyboard and how one screen transitions to another screen
-
-
 
 ####Create *Controllers for our Scenes
 Applications aren’t just interfaces—as a developer, you also need to write code. To work with the interface you’ve designed, you need to create connections between your code and your interface.
