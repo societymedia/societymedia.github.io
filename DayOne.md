@@ -17,7 +17,7 @@ What we are going to do is make sure we get the Prerequisites downloaded or crea
 - XCode 8.0
 - An Apple ID
   - Optional Apple Developer Account
-- A Weather API Key from developer.forcast.io
+- A Weather API Key from [Dark Sky](https://darksky.net/dev/)
 
 
 ### Download Xcode 8.0 from Apple Appstore
@@ -34,9 +34,9 @@ Once XCode is downloaded and you have created an AppleID and/or linked it as a A
 
 - In XCode, go to Preferences > Accounts and click the '+' in the bottom. Login using your AppleID.
 
-### Create an Account on forcast.io
+### Create an Account on  [Dark Sky](https://darksky.net/dev/)
 
-We'll be using the forcast.io API to get weather for our app. So go to developer.forcast.io and create an account.
+We'll be using the  [Dark Sky](https://darksky.net/dev/) API to get weather for our app. So go to [Dark Sky](https://darksky.net/dev/) and create an account.
 
 ### XCode IDE
 
